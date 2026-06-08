@@ -29,7 +29,8 @@ The platform follows a secure, automated, and scalable architecture aligned with
 
 📌 **Architecture Diagram:**
 
-<img width="1536" height="1024" alt="starbucks_chatgpt" src="https://github.com/user-attachments/assets/6f037d05-e209-44fc-9c71-269e5a10b9f5" />
+<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/e147900c-9b11-4f31-aad3-2a5fc6ccc702" />
+" 
 
 ---
 
